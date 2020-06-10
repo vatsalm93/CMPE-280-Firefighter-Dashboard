@@ -1,0 +1,5 @@
+Shikang's:
+project-id=cmpe281-lab-218723;registry-id=firefighter;device-id=firefighter;cloud-region=us-central1
+
+Vatsal's:
+project-id=divine-precinct-243419;registry-id=iot_registry;device-id=iot_device;cloud-region=us-central1
